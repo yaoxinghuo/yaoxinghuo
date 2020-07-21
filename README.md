@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Terry's github stats](https://github-readme-stats.vercel.app/api?username=yaoxinghuo)](https://github.com/anuraghazra/github-readme-stats)
+[![Terry's github stats](https://github-readme-stats.vercel.app/api?username=yaoxinghuo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/yaoxinghuo/Quview">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yaoxinghuo&repo=Quview&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/yaoxinghuo/alfred-jumpdesktop-connections-workflow">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yaoxinghuo&repo=alfred-jumpdesktop-connections-workflow&theme=tokyonight" />
+</a>
