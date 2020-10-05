@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/yaoxinghuo/alfred-jumpdesktop-workflow">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yaoxinghuo&repo=alfred-jumpdesktop-connections-workflow&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yaoxinghuo&repo=alfred-jumpdesktop-workflow&theme=tokyonight" />
 </a>
