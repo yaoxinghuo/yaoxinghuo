@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicfred&theme=buefy&layout=compact)
+
 [![Terry's github stats](https://github-readme-stats.vercel.app/api?username=yaoxinghuo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/yaoxinghuo/Quview">
